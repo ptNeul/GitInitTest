@@ -4,4 +4,4 @@ pull을 테스트 해보쟈
 
 충돌을 만들어보자
 
-pull request !!!
+VSCode에서 Git 사용 !!!
